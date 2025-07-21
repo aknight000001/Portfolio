@@ -1,2 +1,2 @@
-# alexknight.github.io
-This is the overall porftolio of my projects.
+# Alex Knight's Portfolio of Projects
+
