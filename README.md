@@ -1,2 +1,2 @@
-# Alex Knight's Portfolio of Projects
+Alex Knight's Portfolio of Projects
 
